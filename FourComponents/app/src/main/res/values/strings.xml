@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FourComponents</string>
+    <string name="title_activity_b">BActivity</string>
+    <string name="title_activity_c">CActivity</string>
+    <string name="title_activity_single_top">SingleTopActivity</string>
+    <string name="title_activity_single_task">SingleTaskActivity</string>
+    <string name="title_activity_single_instance">SingleInstanceActivity</string>
+</resources>
