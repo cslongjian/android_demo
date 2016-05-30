@@ -1,5 +1,6 @@
 package com.chenlong.touchpassing.Activity;
 
+import android.app.ActivityManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
@@ -15,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     private CLButton button;
     private CLButton singleBtn;
     private CLLineaLayout lineaLayout;
+
+    Activitym;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
